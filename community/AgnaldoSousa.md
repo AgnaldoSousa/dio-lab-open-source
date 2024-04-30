@@ -25,7 +25,7 @@ Descrição: Construindo um Sistema de Hospedagem de um Hotel no C#
 
 ## Estatísticas do GitHub no Futuro
 [![](https://github-readme-stats.vercel.app/api?username=AgnaldoSousa&show_icons=true&theme=radical)](https://github.com/AgnaldoSousa)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?AgnaldoSousa=AgnaldoSousa&layout=compact&theme=radical)](https://github.com/AgnaldoSousa)
+
 
 
 ## Contato
