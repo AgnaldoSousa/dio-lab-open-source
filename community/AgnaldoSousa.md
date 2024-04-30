@@ -10,10 +10,10 @@ Futuro especialista em Cloud Computing e outras arquiteturas.
 Aprendendo tecnologias e vivendo uma jornada de constante evolução!
 
 ## Habilidades
-- Linguagens de Programação: [.NET e C#]
-- Frameworks: 
+- Linguagens de Programação: C#
+- Frameworks: .NET
 - Banco de Dados: 
-- Outras habilidades: [Git e GitHub]
+- Outras habilidades: [Git e GitHub],[DevOps]e [Softs Skills]
 
 ## Projetos
 Aqui estão alguns dos projetos em que estou trabalhando ou já contribuí:
