@@ -5,7 +5,7 @@ Sou um entusiasta de tecnologia focado em se tornar futuro desenvolvedor back-en
 Estou animado para mergulhar no mundo da programação e contribuir para projetos interessantes.
 
 Back-end Developer,
-Futuro especialista em Cloud Computing e outras arquiteturas.
+Futuro especialista em ☁️Cloud Computing e outras arquiteturas.
 
 Aprendendo tecnologias e vivendo uma jornada de constante evolução!
 
@@ -19,13 +19,13 @@ Aprendendo tecnologias e vivendo uma jornada de constante evolução!
 Aqui estão alguns dos projetos em que estou trabalhando ou já contribuí:
 
 ### Projeto 1
-Descrição: [Breve descrição do projeto]
-- Link do repositório: [Link para o repositório]
-- Tecnologias utilizadas: [Liste as tecnologias utilizadas no projeto]
+Descrição: Construindo um Sistema de Hospedagem de um Hotel no C#
+- Link do repositório: https://github.com/AgnaldoSousa/trilha-net-explorando-desafio
+- Tecnologias utilizadas: .NET e C#
 
 ## Estatísticas do GitHub no Futuro
-[![](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=radical)](https://github.com/seu_username)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&layout=compact&theme=radical)](https://github.com/seu_username)
+[![](https://github-readme-stats.vercel.app/api?username=AgnaldoSousa&show_icons=true&theme=radical)](https://github.com/AgnaldoSousa)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?AgnaldoSousa=AgnaldoSousa&layout=compact&theme=radical)](https://github.com/AgnaldoSousa)
 
 
 ## Contato
